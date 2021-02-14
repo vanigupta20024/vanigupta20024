@@ -1,5 +1,5 @@
 
-<img align='right' src='Entry.gif' width='600"'>
+<img align='right' src='Entry.gif' width='500"'>
 
 # Vani Gupta (She/Her/Hers) :unicorn:
 
