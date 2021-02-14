@@ -1,6 +1,7 @@
 
-<img align='center' src='Entry.gif' width='700"'>
+<img align='center' src='Entry.gif' width='900"'>
 
+## Vani Gupta :dizzy:
 
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark)
 
