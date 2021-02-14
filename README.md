@@ -1,5 +1,5 @@
 
-<img class='center' src='Entry.gif' width='700"'>
+<img align='right' src='Entry.gif' width='600"'>
 
 ## Vani Gupta :dizzy:
 
