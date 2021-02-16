@@ -20,9 +20,10 @@
   ### :1st_place_medal: Some of my acheivements:
   
   * Awarded GHC scholarship for the year 2020.
-  * Runner up in team challenge at Capgemini Tech Challenge 2020.
+  * Runner up in team challenge at Capgemini Tech Challenge 2020 and finalist in threat hunting.
   * Winner at numerous coding competitions at University of Delhi.
   * Awarded WiCyS cybersecurity Scholarship cum training (stage 2).
+  * Awarded the Microsoft ML scholar for the year 2020.
   * Academic Excellence Award at RLA college, University of Delhi.
   
   #### 👨🏻‍💻 Languages and Tools: <br />
