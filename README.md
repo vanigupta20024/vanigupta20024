@@ -1,9 +1,7 @@
 
-<img align='right' src='Entry.gif' width='500"'>
+<img align='right' src='Entry.gif' width='480"'>
 
 # Vani Gupta :unicorn:
-
-### Pronouns - She/Her/Hers
   
   [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/vanigupta20024/)
   [<img src="https://img.icons8.com/bubbles/50/4a90e2/domain.png" width="3.5%"/>](https://vanigupta20024.github.io)
@@ -13,11 +11,13 @@
   [<img src="https://img.icons8.com/color/48/4a90e2/GeeksforGeeks.png" width="3.5%"/>](https://auth.geeksforgeeks.org/user/vanigupta20024/articles)
   [<img src="https://img.icons8.com/color/48/000000/stackoverflow.png"/>](https://stackoverflow.com/users/12706049/vani-gupta)
   
-  #### <img src="https://img.icons8.com/emoji/48/000000/woman-technologyst.png"/> More about me:
+  ### Pronouns - She/Her/Hers
   
-  I am **master's student** :mortar_board:, pursuing my degree in Computer Applications from **Hyderabad, India** :school:. I am into problem solving, web development and hold interest in cybersecurity. I am an active writer with primary focus on programming languages and technologies :memo::pencil: and an avid reader :books:. Feel free to reach out to me on LinkedIn (super active there)! Apart from this, I am involved in a number of communities from around the globe :earth_americas:, some specially focusing on bringing more women into technology related fields :woman_scientist: and have volunteered for various technical events. 
+  ### <img src="https://img.icons8.com/emoji/48/000000/woman-technologyst.png"/> More about me:
   
-  #### :1st_place_medal: Some of my acheivements:
+  I am **master's student** :mortar_board:, pursuing my degree in Computer Applications from **Hyderabad, India** :school:. I am into problem solving, web development and hold interest in cybersecurity. I am an active writer with primary focus on programming languages and technologies :memo:, freelancer and an avid reader :books:. Feel free to reach out to me on LinkedIn (super active there)! Apart from this, I am involved in a number of communities from around the globe :earth_americas:, some specially focusing on bringing more women into technology related fields :woman_scientist: and have volunteered for various technical events.
+  
+  ### :1st_place_medal: Some of my acheivements:
   
   * Awarded GHC scholarship for the year 2020.
   * Runner up in team challenge at Capgemini Tech Challenge 2020.
