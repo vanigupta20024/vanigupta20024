@@ -39,6 +39,8 @@
   <code><img height="40" src="https://github.com/vanigupta20024/vanigupta20024/blob/main/images/flask.png"></code>
   <code><img height="40" src="https://github.com/vanigupta20024/vanigupta20024/blob/main/images/git.png"></code>
   <code><img height="40" src="https://github.com/vanigupta20024/vanigupta20024/blob/main/images/sql.png"></code>
+  <code><img height="40" src="https://github.com/vanigupta20024/vanigupta20024/blob/main/images/django.png"></code>
+  <code><img height="40" src="https://github.com/vanigupta20024/vanigupta20024/blob/main/images/1280px-React-icon.svg.png.png"></code>
 
   
   [![Stats](https://github-readme-stats.vercel.app/api?username=vanigupta20024&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=vanigupta20024&show_icons=true&theme=radical)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
