@@ -19,7 +19,8 @@
   
   ### :1st_place_medal: Some of my acheivements:
   
-  * Awarded GHC scholarship for the year 2020.
+  * Awarded GHC scholarship for the year 2020 AND 2021.
+  * WiCyS 2021 scholarship recipient to attend annual conference in US. Research poster accepted.
   * Runner up in team challenge at Capgemini Tech Challenge 2020 and finalist in threat hunting.
   * Winner at numerous coding competitions at University of Delhi.
   * Awarded WiCyS cybersecurity Scholarship cum training (stage 2).
